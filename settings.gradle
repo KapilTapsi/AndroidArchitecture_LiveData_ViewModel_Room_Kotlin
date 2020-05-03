@@ -1,0 +1,2 @@
+rootProject.name='Kotlin Android Architecture Live Data,ViewModel Room'
+include ':app'
